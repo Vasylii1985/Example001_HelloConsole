@@ -1,0 +1,15 @@
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\bin\Debug\net6.0\001_HlloConsole.exe
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\bin\Debug\net6.0\001_HlloConsole.deps.json
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\bin\Debug\net6.0\001_HlloConsole.runtimeconfig.json
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\bin\Debug\net6.0\001_HlloConsole.dll
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\bin\Debug\net6.0\001_HlloConsole.pdb
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\001_HlloConsole.csproj.AssemblyReference.cache
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\001_HlloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\001_HlloConsole.AssemblyInfoInputs.cache
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\001_HlloConsole.AssemblyInfo.cs
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\001_HlloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\001_HlloConsole.dll
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\refint\001_HlloConsole.dll
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\001_HlloConsole.pdb
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\001_HlloConsole.genruntimeconfig.cache
+C:\Users\Bespalchuk_V_N\repo\Examples\001_HlloConsole\obj\Debug\net6.0\ref\001_HlloConsole.dll
